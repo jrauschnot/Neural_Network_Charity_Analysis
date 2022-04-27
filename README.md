@@ -42,3 +42,5 @@ An analysis of charities using neural networks
 ## Summary: 
 - None of the deep learning models were able to achieve the target of 75% accuracry.  Perhaps a linear regression model would be more appropriate for this data set. 
 
+<img width="647" alt="Screen Shot 2022-04-26 at 8 35 38 PM" src="https://user-images.githubusercontent.com/93015602/165434818-c5cff164-be50-4374-9855-70db3ecd2605.png">
+
